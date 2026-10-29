@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/banner.jpg" alt="Stable Diffusion free download — SDXL PC build, no limits" width="100%">
+<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/banner-v2.jpg" alt="Stable Diffusion free download — SDXL PC build, no limits" width="100%">
 
 # Stable Diffusion
 
