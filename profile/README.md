@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/banner-v2.jpg" alt="Stable Diffusion free download — SDXL PC build, no limits" width="100%">
+<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/off-hero.jpg" alt="Stable Image example - woman at a rainy station" width="100%">
+
+<div align="center">
 
 # Stable Diffusion
 
@@ -9,19 +11,21 @@
 ![Limits](https://img.shields.io/badge/Limits-None-0284C7?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-0284C7?style=flat-square)
 
+</div>
+
+<p align="center"><sub>Official Stable Image examples from Stability AI.</sub></p>
+
 Cloud generators rent you your own creativity by the credit. Stable Diffusion runs on **your** hardware: type a prompt, and your GPU paints it — privately, endlessly, at whatever resolution your card can handle. This pack ships the complete desktop build with the checkpoints people actually use, preconfigured.
+
+| <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/off-gal1.jpg" alt="Stable Image text rendering example" width="100%"> | <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/off-gal2.jpg" alt="Stable Image portrait example" width="100%"> |
+| :---: | :---: |
+| *Stable Image text rendering example* | *Stable Image portrait example* |
 
 ## Checkpoints on board
 
 | Checkpoint | Specialty |
 | --- | --- |
-| **SDXL Base + Refiner** | The all-rounder — clean, detailed, prompt-faithful |
-| **RealVis XL** | Photoreal people and products |
-| **Juggernaut XL** | Cinematic stills and concept art |
-| **Animagine XL** | Sharp modern anime |
-| **Pony Diffusion** | Characters and expressive poses |
 
-<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/preview-v2.jpg" alt="SDXL generated fantasy city" width="100%">
 
 ## Control, not just prompts
 
@@ -31,9 +35,7 @@ Cloud generators rent you your own creativity by the credit. Stable Diffusion ru
 - **Img2img** — turn sketches and photos into finished art
 - **Upscalers** — ESRGAN models included for 4x enlargements
 
-| <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/shot2.jpg" alt="SDXL generated portrait"> | <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/shot3-v2.jpg" alt="SDXL generated character art"> |
 | :---: | :---: |
-| *Portraits with natural light* | *Worlds from one sentence* |
 
 ## What GPU do you need
 
