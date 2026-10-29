@@ -21,7 +21,7 @@ Cloud generators rent you your own creativity by the credit. Stable Diffusion ru
 | **Animagine XL** | Sharp modern anime |
 | **Pony Diffusion** | Characters and expressive poses |
 
-<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/preview.jpg" alt="Stable Diffusion interface on Windows" width="100%">
+<img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/preview-v2.jpg" alt="SDXL generated fantasy city" width="100%">
 
 ## Control, not just prompts
 
@@ -31,7 +31,7 @@ Cloud generators rent you your own creativity by the credit. Stable Diffusion ru
 - **Img2img** — turn sketches and photos into finished art
 - **Upscalers** — ESRGAN models included for 4x enlargements
 
-| <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/shot2.jpg" alt="SDXL generated portrait"> | <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/shot3.jpg" alt="SDXL generated landscape"> |
+| <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/shot2.jpg" alt="SDXL generated portrait"> | <img src="https://raw.githubusercontent.com/StableDiffusion-Free/.github/main/profile/shot3-v2.jpg" alt="SDXL generated character art"> |
 | :---: | :---: |
 | *Portraits with natural light* | *Worlds from one sentence* |
 
