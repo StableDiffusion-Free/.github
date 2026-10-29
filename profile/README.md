@@ -26,7 +26,6 @@ Cloud generators rent you your own creativity by the credit. Stable Diffusion ru
 | Checkpoint | Specialty |
 | --- | --- |
 
-
 ## Control, not just prompts
 
 - **ControlNet** — pose, depth and edge guidance: draw the composition, let AI paint it
@@ -34,8 +33,6 @@ Cloud generators rent you your own creativity by the credit. Stable Diffusion ru
 - **Inpainting & outpainting** — fix regions or extend canvases endlessly
 - **Img2img** — turn sketches and photos into finished art
 - **Upscalers** — ESRGAN models included for 4x enlargements
-
-| :---: | :---: |
 
 ## What GPU do you need
 
